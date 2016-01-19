@@ -1,2 +1,3 @@
-Ol√°peeps!
-Gostas de c√° andar? :P
+Ol√ peeps!
+Gostas de c√° andar? P
+Toma l√ mais uma linha de texto...
